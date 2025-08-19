@@ -1,0 +1,14 @@
+# requirements.txt
+
+# For the FastAPI Backend
+fastapi
+uvicorn[standard]
+beautifulsoup4
+
+# For the Streamlit Frontend
+streamlit
+
+# Common Libraries
+requests
+pandas
+openpyxl
